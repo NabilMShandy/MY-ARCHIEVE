@@ -132,5 +132,8 @@ int main()
         }
     } while (pilihan != 7);
 
+    cout << "Terima kasih telah menggunakan!\n";
+    
     return 0;
+
 }
