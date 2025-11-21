@@ -1,3 +1,3 @@
-Kode yang saya tulis dan sempat didokumentasikan, untuk sekarang kebanyakan masih banyak C++.
+#Kode yang saya tulis dan sempat didokumentasikan dengan berbagai bahasa pemrograman. 
 	
-Bahasa lain akan ditambahkan seiring bertambahnya waktu.
+Untuk sekarang kebanyakan masih banyak C++. Bahasa lain akan ditambahkan seiring bertambahnya waktu.
